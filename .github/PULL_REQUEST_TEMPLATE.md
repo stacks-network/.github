@@ -23,10 +23,11 @@ encryptContent('my data')
 For details refer to issue #123
 
 ## Type of Change
-- [ ] New feature
-- [ ] Bug fix
-- [ ] API reference/documentation update
-- [ ] Other
+<!-- Explain or annotate the nature of your changes, see examples below -->
+- New feature
+- Bug fix
+- API reference/documentation update
+- Other 
 
 ## Does this introduce a breaking change?
 List the APIs or describe the functionality that this PR breaks.
