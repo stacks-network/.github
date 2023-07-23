@@ -14,14 +14,14 @@ Stacks contributors are committed to propelling the Bitcoin economy forward. Cur
 
 | Initiative | Engineering Lead | Technical Specification Document | Repo |
 | --- | --- | --- | --- |
-| Nakamoto Release | Jude | link | link |
-| sBTC | Mårten | link | link |
-| Clarity VM | Brice | link | link |
-| Testing & Hardening | Aaron | link | - |
+| Nakamoto Release | [Jude](https://github.com/jcnelson) | [link](nakamoto-release-tsd.md) | [link](https://github.com/stacks-network/stacks-blockchain) |
+| sBTC | [Mårten](https://github.com/netrome) | [link](sbtc-tsd.md) | [link](https://github.com/stacks-network/sbtc) |
+| Clarity VM | [Brice](https://github.com/obycode) | [link](clarity-vm-tsd.md) | [link](https://github.com/stacks-network/clar2wasm) |
+| Testing & Hardening | [Aaron](https://github.com/kantai) | [link](testing-and-hardening-tsd.md) | - |
 
-*Detailed Product Requirements Document for sBTC can be found [here](UPDATE).*
+*Detailed Product Requirements Document for sBTC can be found [here](sbtc-prd.md).*
 
-*Detailed Product Requirements Document for sBTC Signer can be found [here](UPDATE).*
+*Detailed Product Requirements Document for sBTC Signer can be found [here](sbtc-signer-prd.md).*
 
 # Current Objectives and Key Results:
 

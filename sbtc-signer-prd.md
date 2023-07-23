@@ -1,8 +1,8 @@
 # sBTC Signer | Product Requirements Document
 
->Detailed Technical Specifications Document can be found [here](UPDATE).
+>Detailed Technical Specifications Document can be found [here](sbtc-tsd.md).
 
->Detailed Product Requirements Document for sBTC can be found [here](UPDATE).
+>Detailed Product Requirements Document for sBTC can be found [here](sbtc-prd.md).
 
 # Introduction
 

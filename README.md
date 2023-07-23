@@ -14,4 +14,4 @@
 
 🫂 Want to learn about community-led contributions to the Stacks Bitcoin L2? Visit the [BitcoinL2 Labs GitHub](https://github.com/BitcoinL2-Labs).
 
-👨‍🌾 Want to see how all these people (and more) work together as a [Team of Teams](https://www.mcchrystalgroup.com/insights/what-kind-of-leader-can-lead-a-team-of-teams-the-6-principles-of-leading-like-a-gardener/)? Visit the Stacks Core Engineering [home](UPDATE).
+👨‍🌾 Want to see how all these people (and more) work together as a [Team of Teams](https://www.mcchrystalgroup.com/insights/what-kind-of-leader-can-lead-a-team-of-teams-the-6-principles-of-leading-like-a-gardener/)? Visit the Stacks Core Engineering [home](stacks-core-eng-home.md).
