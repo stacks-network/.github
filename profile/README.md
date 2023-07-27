@@ -16,7 +16,7 @@
 
 🫂 Want to learn about community-led contributions to the Stacks Bitcoin L2? [Visit the BitcoinL2 Labs GitHub](https://github.com/BitcoinL2-Labs).
 
-👨‍🌾 Want to see how all these people (and more) work together as a [Team of Teams](https://www.mcchrystalgroup.com/insights/what-kind-of-leader-can-lead-a-team-of-teams-the-6-principles-of-leading-like-a-gardener/)? Visit the [Stacks Core Engineering home](https://app.skiff.com/docs/878d65b7-cad7-4b03-8234-330eda66a175#s5ILCQFYf+jv+aRg0joWaGApPx5x1am1PXbYJd5H8Ck=).
+👨‍🌾 Want to see how all these people (and more) work together as a [Team of Teams](https://www.mcchrystalgroup.com/insights/what-kind-of-leader-can-lead-a-team-of-teams-the-6-principles-of-leading-like-a-gardener/)? Visit the [Stacks Core Engineering](https://github.com/stacks-network/stacks/blob/master/sBTC/stacks_core_engineering.md).
 
 <p align="middle">
     <a href="https://stacks.co"><img alt="Stacks" src="./images/banner.png" width="80%" style="margin-top:25px"/></a>
