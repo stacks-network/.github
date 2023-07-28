@@ -1,5 +1,5 @@
 <p align="left">
-    <a href="https://stacks.co"><img alt="Stacks" src="./images/stacks-logo.png" width="250"/></a>
+    <a href="https://stacks.co"><img alt="Stacks" src="https://github.com/stacks-network/.github/blob/master/profile/images/stacks-logo.png" width="250"/></a>
 </p>
 
 # Stacks-Network
@@ -19,5 +19,5 @@
 👨‍🌾 Want to see how all these people (and more) work together as a [Team of Teams](https://www.mcchrystalgroup.com/insights/what-kind-of-leader-can-lead-a-team-of-teams-the-6-principles-of-leading-like-a-gardener/)? Visit the [Stacks Core Engineering](https://github.com/stacks-network/stacks/blob/master/sBTC/stacks_core_engineering.md).
 
 <p align="left">
-    <a href="https://stacks.co"><img alt="Stacks" src="./images/banner.png" width="80%" style="margin-top:25px"/></a>
+    <a href="https://stacks.co"><img alt="Stacks" src="https://github.com/stacks-network/.github/blob/master/profile/images/banner.png" width="80%" style="margin-top:25px"/></a>
 </p>
