@@ -18,6 +18,9 @@
 
 👨‍🌾 Want to see how all these people (and more) work together as a [Team of Teams](https://www.mcchrystalgroup.com/insights/what-kind-of-leader-can-lead-a-team-of-teams-the-6-principles-of-leading-like-a-gardener/)? Visit the [Stacks Core Engineering](https://github.com/stacks-network/stacks/blob/master/sBTC/stacks_core_engineering.md).
 
+_**Note**: All Blockstack v1 repositories have been moved to a new github org [stacks-archive](https://github.com/stacks-archive)_
+
+
 <p align="left">
     <a href="https://stacks.co"><img alt="Stacks" src="https://github.com/stacks-network/.github/blob/master/profile/images/banner.png" width="80%" style="margin-top:25px"/></a>
 </p>
