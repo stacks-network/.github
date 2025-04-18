@@ -9,6 +9,8 @@
 
 📚 Learn more about building on Bitcoin via Stacks: [Primer](https://www.stacks.co/build/get-started), [Docs](https://docs.stacks.co/docs/intro).
 
+🔗 Explore the 1:1 Bitcoin peg on Stacks: [sBTC development](https://github.com/stacks-sbtc)
+
 🆕 Find the latest news: [Hourly](https://twitter.com/stacks), [Daily](https://stacks.co/blog), [Weekly](https://stackssnacks.com/), [Monthly](https://newsletters.stacks.org/)
 
 🌱 Learn more about funding and support for your Stacks project: [Fuel your project](https://www.stacks.co/build/fuel-your-project).
